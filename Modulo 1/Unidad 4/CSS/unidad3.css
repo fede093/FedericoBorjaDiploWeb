@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap');
+
+h1{
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-family: "BBH Sans Bogle", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+h3{
+    color: #F52757;
+}
+
+p{
+    color: #278BF5;
+}
+
+.peliculas{
+    color: #2754F5;
+    font-size: 20px;
+}
+
+#caja{
+    padding: 20px;
+    margin: 50px;
+    background-color: #F52757;
+    box-shadow: 10px 20px 10px grey;
+    border-radius: 20px;
+}
